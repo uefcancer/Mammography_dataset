@@ -1,1 +1,1 @@
-# Mammography_dataset
+# Mammogram density assessment dataset
